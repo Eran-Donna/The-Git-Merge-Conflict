@@ -1,1 +1,1 @@
-Team Role: Student B - Backend Developer
+Team Role: Student A (Frontend Lead) and Student B (Backend Lead)
